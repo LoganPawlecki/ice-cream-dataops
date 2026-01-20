@@ -1,0 +1,2 @@
+externalId: wf_icapi_data_pipeline
+description: Goes through the following tasks - create asset hierarchy, contextulize assets, extract datapoints oee timeseries
